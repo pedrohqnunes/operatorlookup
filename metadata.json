@@ -1,0 +1,5 @@
+{
+  "name": "Operator Lookup 3.0",
+  "description": "A comprehensive intelligence tool for Brazilian telecom operators. Aggregates data from Google Search, Places, and public records to provide a unified dashboard of contacts, reputation, and coverage.",
+  "requestFramePermissions": []
+}
